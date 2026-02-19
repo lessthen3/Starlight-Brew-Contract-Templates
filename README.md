@@ -14,10 +14,10 @@ This repository is licensed under the Starlight Brew Template License (STBL-1.0)
 
 ### What you can do
 
-✅ Use the templates as a reference
-✅ Modify them for your own agreements
-✅ Use them in commercial settings (e.g., your studio’s contracts)
-✅ Share modified versions (with attribution)
+> ✅ Use the templates as a reference
+> ✅ Modify them for your own agreements
+> ✅ Use them in commercial settings (e.g., your studio’s contracts)
+> ✅ Share modified versions (with attribution)
 
 ### What you cannot do
 
