@@ -8,11 +8,11 @@ This repository contains contract templates primarily intended for educational o
 > [!NOTE] 
 > This contract by default assumes revenue sharing represented as a time limited royalty that continues after contract termination. If you just want a flat fee payment model then adjusting the template should be relatively easy.
 
-### License
+## License
 
 This repository is licensed under the Starlight Brew Template License (STBL-1.0)
 
-### What you can do
+## What you can do
 
 ✅ Use the templates as a reference
 
@@ -22,13 +22,13 @@ This repository is licensed under the Starlight Brew Template License (STBL-1.0)
 
 ✅ Share modified versions (with attribution)
 
-### What you cannot do
+## What you cannot do
 
 ❌ Sell the templates (or substantially similar copies) as a standalone product or template pack
 
 ❌ Remove attribution and claim authorship of the original template
 
-### Attribution
+## Attribution
 
 If you redistribute (modified or unmodified), retain the template notice and reference the original source repository, as required by STBL-1.0.
 
@@ -37,7 +37,7 @@ If you redistribute (modified or unmodified), retain the template notice and ref
 > “Based on the Starlight Brew Inc. contract template (STBL-1.0).”
 
 
-### Parts that need to be edited by you
+## Parts that need to be edited by you
 
 * Governing Law / Forum (Section 12)
 
