@@ -5,7 +5,7 @@ This repository contains contract templates primarily intended for educational o
 > [!IMPORTANT] 
 > This is not legal advice. See LICENSE for more information. I highly recommend seeking legal consultation before giving out this contract, this contract is provided "as-is" and you should use at your own discretion.
 
-> [!INFO] 
+> [!NOTE] 
 > This contract by default assumes revenue sharing represented as a time limited royalty that continues after contract termination. If you just want a flat fee payment model then adjusting the template should be relatively easy.
 
 ### License
