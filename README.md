@@ -41,9 +41,9 @@ If you redistribute (modified or unmodified), retain the template notice and ref
 
 * Governing Law / Forum (Section 12)
 
-* Work-Made-for-Hire language applicability (Section 6)
+* Work made for hire language applicability (Section 6)
 
-* Cross-border tax (Section 11)
+* Cross border tax (Section 11)
 
 * Notice methods and addresses (Section 13.1)
 
