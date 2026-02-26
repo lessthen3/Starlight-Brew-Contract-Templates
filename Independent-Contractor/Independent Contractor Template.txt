@@ -40,14 +40,15 @@ Purpose: The following recitals are provided for context only and do not create 
 “Minimum Scope UI Requirement” means the requirement in Schedule A (A5) is satisfied when accepted and paid Minimum Scope UI fees total at least the UI Threshold.
 “Minimum Scope Value” means the sum of the prices for all Minimum Scope items (A5), using Schedule B rates unless a Deliverable Order sets a different price for that Minimum Scope item. For the Minimum Scope UI requirement, the value attributable to UI is the UI Threshold.
 “Completed Minimum Scope Value” means the sum of prices for Minimum Scope Deliverables that have been accepted and paid. For the Minimum Scope UI requirement, Completed Minimum Scope Value includes the lesser of 
-(i) the total fees for accepted and paid UI Deliverables designated as “Minimum Scope UI” and 
+(i) the total fees for accepted and paid UI Deliverables designated as Minimum Scope UI and 
 (ii) the UI Threshold.
+“Nonconformity” means a material failure to meet the applicable Deliverable Order’s acceptance criteria.
 1) Services
 1.1 Engagement: Contractor will provide art and related services described in Schedule A (“Services”).
 1.2 Deliverables: Contractor will produce the Deliverables listed in Schedule A.
 1.3 Acceptance: Company will have up to 5 Business Days to review each Deliverable and either: 
 (a) accept it, or 
-(b) provide written notice that it does not conform to the applicable Deliverable Order (A3), describing the nonconformity. If the Deliverable does not conform to the Deliverable Order, Contractor will correct the nonconforming aspects at no additional charge and re-deliver within a mutually agreed timeframe in writing. Nonconformity means failure to meet the applicable Deliverable Order’s acceptance criteria; subjective preference changes are not considered nonconformities. Any changes or additions to the Deliverable Order requested by Company after work begins including style changes not required to meet the Deliverable Order, are billable and require a written Deliverable Order Amendment specifying 
+(b) provide written notice that it does not conform to the applicable Deliverable Order (A3), describing the Nonconformity. If the Deliverable does not conform to the Deliverable Order, Contractor will correct the nonconforming aspects at no additional charge and re-deliver within a mutually agreed timeframe in writing. Subjective preference changes are not considered Nonconformities. Any changes or additions to the Deliverable Order requested by Company after work begins, including style changes not required to meet the Deliverable Order, are billable and require a written Deliverable Order Amendment specifying 
 (i) revision scope, (ii) revision fee, and (iii) updated delivery date. 
 Company will not unreasonably withhold acceptance once the Deliverable conforms to the Deliverable Order. If Company does not provide an acceptance or rejection notice within 5 Business Days, the Deliverable is deemed accepted.
 1.4 Deliverable Obligation: Contractor must accept or reject a Required Deliverable Order Request proposed by Company in writing within 5 Business Days of receipt. Failure to respond within that period is automatically deemed a rejection.
@@ -78,6 +79,8 @@ Company will not unreasonably withhold acceptance once the Deliverable conforms 
 4.5 No Ransom: After a Deliverable Order is agreed, Contractor may not condition delivery of that Deliverable, or source files, on payment of amounts not stated in the Deliverable Order. Doing so is a material breach.
 5) Confidentiality and Non-Disclosure
 Confidential Information is defined as any non-public information about the game, code, designs, assets, pipelines, story, business plans, pricing, builds, tools, and any materials marked or reasonably understood to be confidential.
+
+
 5.1 Contractor is Obligated to: 
 (a) Use Confidential Information only to perform Services. 
 (b) Not disclose Confidential Information to third parties. 
@@ -193,16 +196,6 @@ Email notices are deemed given when sent to the notice email address below, prov
 13.8 Headings are for convenience only and do not affect interpretation.
 
 ________________
-
-
-
-
-
-
-
-
-
-
 Schedule A – Statement of Work
 A1. Project Name: Project development codename is [GAME NAME].
 A2. Nature of Work: Contractor will create pixel art and concept work as requested by Company through Deliverable Orders.
@@ -219,7 +212,7 @@ A5. Minimum Scope Deliverables Required:
 * 6 Characters which includes sprite, expressions, posing, and mouth animations
 * User Interface Deliverables such as menu buttons, labels, sliders, icons, and their associated interaction states or variants. The Parties agree the Minimum Scope UI Requirement is satisfied when the total fees for accepted and paid Minimum Scope UI equals or exceeds the UI Threshold. UI Deliverables beyond the UI Threshold are Optional Deliverable Order Requests unless the Parties amend Schedule A in writing. If a UI Deliverable is not designated in the Deliverable Order as Minimum Scope UI, it will be treated as an Optional Deliverable.
 * 4 level backgrounds
-* A6. Revisions: Revisions will be handled as set out in Section 1.3 and the Deliverable Order.
+A6. Revisions: Revisions will be handled as set out in Section 1.3 and the Deliverable Order.
 A7. Milestones: The Parties will agree in writing to a delivery date for each Deliverable or milestone.
 A8. Extension Requests: Contractor may request an extension before the due date, stating the reason and a proposed new date. Company may approve or reject in its discretion.
 A9. Asset Disclosure and Source Files: Each Deliverable must be delivered with the final exported files and the editable source files reasonably necessary to modify and implement the Deliverable, as specified in the Deliverable Order (A3).

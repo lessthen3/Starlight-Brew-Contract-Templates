@@ -81,9 +81,11 @@ Redistribution (modified or unmodified) must retain this notice and include attr
 
 **“Completed Minimum Scope Value”** means the sum of prices for Minimum Scope Deliverables that have been accepted and paid. For the **Minimum Scope UI** requirement, Completed Minimum Scope Value includes the lesser of 
 
-**(i)** the total fees for accepted and paid UI **Deliverables** designated as “Minimum Scope UI” and 
+**(i)** the total fees for accepted and paid **UI Deliverables** designated as **Minimum Scope UI** and 
 
 **(ii)** the **UI Threshold**.
+
+“**Nonconformity**” means a material failure to meet the applicable **Deliverable Order’s** acceptance criteria.
 
 ### **1\) Services**
 
@@ -95,13 +97,15 @@ Redistribution (modified or unmodified) must retain this notice and include attr
 
 **(a)** accept it, or 
 
-**(b)** provide written notice that it does not conform to the applicable **Deliverable Order** **(A3)**, describing the nonconformity. **If the Deliverable does not conform to the Deliverable Order, Contractor will correct the nonconforming aspects at no additional charge** and re-deliver within a mutually agreed timeframe in writing. Nonconformity means failure to meet the applicable **Deliverable Order**’s acceptance criteria; subjective preference changes are not considered nonconformities. **Any changes or additions to the Deliverable Order requested by Company after work begins** including style changes not required to meet the Deliverable Order, **are billable** and require a written **Deliverable Order Amendment** specifying 
+**(b)** provide written notice that it does not conform to the applicable **Deliverable Order** **(A3)**, describing the **Nonconformity**. If the **Deliverable** does not conform to the **Deliverable Order, Contractor** will correct the nonconforming aspects at no additional charge and re-deliver within a mutually agreed timeframe in writing. Subjective preference changes are not considered **Nonconformities**. Any changes or additions to the **Deliverable Order** requested by **Company** after work begins, including style changes not required to meet the **Deliverable Order**, are billable and require a written **Deliverable Order Amendment** specifying 
 
 **(i)** revision scope, **(ii)** revision fee, and **(iii)** updated delivery date. 
 
-**Company** will not unreasonably withhold acceptance once the Deliverable conforms to the Deliverable Order. If **Company** does not provide an acceptance or rejection notice within **5 Business Days**, the Deliverable is deemed accepted.
+**Company** will not unreasonably withhold acceptance once the **Deliverable** conforms to the **Deliverable Order**. If **Company** does not provide an acceptance or rejection notice within **5 Business Days**, the **Deliverable** is deemed accepted.
 
 **1.4 Deliverable Obligation: Contractor** must accept or reject a **Required Deliverable Order Request** proposed by **Company** in writing within **5 Business Days** of receipt. Failure to respond within that period is automatically deemed a rejection.
+
+### 
 
 ### **2\) Term**
 
@@ -411,8 +415,9 @@ Email notices are deemed given when sent to the notice email address below, prov
 * 24 Spell Cards including a portrait animation  
 * 6 Characters which includes sprite, expressions, posing, and mouth animations  
 * User Interface Deliverables such as menu buttons, labels, sliders, icons, and their associated interaction states or variants. The **Parties** agree the **Minimum Scope UI** **Requirement** is satisfied when the total fees for accepted and paid **Minimum Scope UI** equals or exceeds the **UI Threshold**. **UI Deliverables** beyond the **UI Threshold** are **Optional Deliverable Order Requests** unless the **Parties** amend **Schedule A** in writing. If a **UI Deliverable** is not designated in the **Deliverable Order** as **Minimum Scope UI**, it will be treated as an **Optional Deliverable**.  
-* 4 level backgrounds  
-* **A6. Revisions:** Revisions will be handled as set out in **Section 1.3** and the **Deliverable Order**.
+* 4 level backgrounds
+
+**A6. Revisions:** Revisions will be handled as set out in **Section 1.3** and the **Deliverable Order**.
 
 **A7. Milestones:** The **Parties** will agree in writing to a delivery date for each **Deliverable** or milestone.
 
@@ -421,6 +426,8 @@ Email notices are deemed given when sent to the notice email address below, prov
 **A9. Asset Disclosure and Source Files:** Each **Deliverable** must be delivered with the final exported files **and** the editable source files reasonably necessary to modify and implement the **Deliverable**, as specified in the **Deliverable Order** **(A3)**.
 
 **A10. Written Approvals and Deliverable Orders:** The Parties may approve **Deliverable Orders** **(A3)**, deadlines, prices, and revisions in writing via email or Discord messages in the **Parties**’ Project communications channel. File delivery via Google Drive links is acceptable. The **Parties** will retain copies of such approvals.
+
+## 
 
 ## 
 
