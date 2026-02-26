@@ -215,14 +215,11 @@ A3. Deliverable Order: Before Contractor begins work on any Deliverable, the Par
 (f) Whether the Deliverable is designated as Minimum Scope UI or as an Optional Deliverable.
 A4. Deliverable Acceptance: Upon receiving Deliverables from Contractor, Company will accept only Deliverables that meet the Deliverable Order (A3) outlined by both parties prior to delivery. Company considers only accepted Deliverables payable. Any change in scope or specifications requires a Deliverable Order Amendment pursuant to (A3). Review and acceptance will follow the timelines outlined in Section 1.3.
 A5. Minimum Scope Deliverables Required:
-* 6 Runes including idle, match and special match animations
 * 24 Spell Cards including a portrait animation
-* 24 Trinkets and any required animations
 * 6 Characters which includes sprite, expressions, posing, and mouth animations
 * User Interface Deliverables such as menu buttons, labels, sliders, icons, and their associated interaction states or variants. The Parties agree the Minimum Scope UI Requirement is satisfied when the total fees for accepted and paid Minimum Scope UI equals or exceeds the UI Threshold. UI Deliverables beyond the UI Threshold are Optional Deliverable Order Requests unless the Parties amend Schedule A in writing. If a UI Deliverable is not designated in the Deliverable Order as Minimum Scope UI, it will be treated as an Optional Deliverable.
 * 4 level backgrounds
-* 1 studio splash for displaying Company association with game production played at game start up
-A6. Revisions: Revisions will be handled as set out in Section 1.3 and the Deliverable Order.
+* A6. Revisions: Revisions will be handled as set out in Section 1.3 and the Deliverable Order.
 A7. Milestones: The Parties will agree in writing to a delivery date for each Deliverable or milestone.
 A8. Extension Requests: Contractor may request an extension before the due date, stating the reason and a proposed new date. Company may approve or reject in its discretion.
 A9. Asset Disclosure and Source Files: Each Deliverable must be delivered with the final exported files and the editable source files reasonably necessary to modify and implement the Deliverable, as specified in the Deliverable Order (A3).
@@ -232,12 +229,10 @@ All following amounts are listed in USD. All Deliverables can be subject to furt
 
 
 B0. Flat Fee per Deliverable:
-* $285 per Rune 
 * $150 per Spell Card
 * $60 per User Interface element 
 * $150 per background
 * $210 per Character 
-* $300 for a complete animated studio splash 
 B1. Royalty: Company will pay Contractor [%] of Net Receipts attributable to the Project for 5 years beginning on the Public Release date, subject to Section 10.5.
 B2. Reporting and Payment: Reports and payments monthly, paid within 30 calendar days after month-end. Reports will include at least units, refunds, Net Receipts, and royalty amount.
 B3. Bundles: If the Project is sold as part of a bundle containing other products, Net Receipts attributable to the Project will be the amount allocated to the Project in the applicable storefront or platform settlement reports. If no allocation is provided, Net Receipts will be allocated pro rata based on the standalone list prices of the included products at the time of sale or another method mutually agreed in writing.

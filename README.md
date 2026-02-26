@@ -1,12 +1,12 @@
 # Starlight Brew Contract Templates
 
-This repository contains contract templates primarily intended for educational or informational use by indie game devs to use while contracting someone for help in their game; and as a practical starting point for independent contractor agreement (common law jurisdictions) that may be adapted for other jurisdictions (including civil law) with appropriate legal review.
+This repository contains contract templates primarily intended for educational or informational use by indie game developers and artists who want a reference when contracting help for a project. These templates are meant to serve as a practical starting point for independent contractor agreements in common law jurisdictions, and they may be adapted for other jurisdictions (including civil law systems) with appropriate legal review.
 
 > [!IMPORTANT] 
-> This is not legal advice. See LICENSE for more information. I highly recommend seeking legal consultation before giving out this contract, this contract is provided "as-is" and you should use at your own discretion.
+> This is not legal advice. See LICENSE for more information. __I highly recommend seeking legal consultation before giving out anything based off this contract__, this contract is provided "as-is" and you should use at your own discretion.
 
 > [!NOTE] 
-> This contract by default assumes revenue sharing represented as a time limited royalty that continues after contract termination. If you just want a flat fee payment model then adjusting the template should be relatively easy.
+> This contract by default assumes revenue sharing represented as a time limited royalty that continues after contract termination. If you just want a reference for a flat fee payment model, this contract template is still helpful since it would just be a subset of the current contract template.
 
 ## License
 
@@ -35,16 +35,3 @@ If you redistribute (modified or unmodified), retain the template notice and ref
 > [!TIP] 
 > Suggested attribution:
 > “Based on the Starlight Brew Inc. contract template (STBL-1.0).”
-
-
-## Parts that need to be edited by you
-
-* Governing Law / Forum (Section 12)
-
-* Work made for hire language applicability (Section 6)
-
-* Cross border tax (Section 11)
-
-* Notice methods and addresses (Section 13.1)
-
-* All bracketed [X] fields

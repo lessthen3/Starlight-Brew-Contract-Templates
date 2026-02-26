@@ -408,15 +408,11 @@ Email notices are deemed given when sent to the notice email address below, prov
 
 **A5. Minimum Scope Deliverables Required:**
 
-* 6 Runes including idle, match and special match animations  
 * 24 Spell Cards including a portrait animation  
-* 24 Trinkets and any required animations  
 * 6 Characters which includes sprite, expressions, posing, and mouth animations  
 * User Interface Deliverables such as menu buttons, labels, sliders, icons, and their associated interaction states or variants. The **Parties** agree the **Minimum Scope UI** **Requirement** is satisfied when the total fees for accepted and paid **Minimum Scope UI** equals or exceeds the **UI Threshold**. **UI Deliverables** beyond the **UI Threshold** are **Optional Deliverable Order Requests** unless the **Parties** amend **Schedule A** in writing. If a **UI Deliverable** is not designated in the **Deliverable Order** as **Minimum Scope UI**, it will be treated as an **Optional Deliverable**.  
 * 4 level backgrounds  
-* 1 studio splash for displaying **Company** association with game production played at game start up
-
-**A6. Revisions:** Revisions will be handled as set out in **Section 1.3** and the **Deliverable Order**.
+* **A6. Revisions:** Revisions will be handled as set out in **Section 1.3** and the **Deliverable Order**.
 
 **A7. Milestones:** The **Parties** will agree in writing to a delivery date for each **Deliverable** or milestone.
 
@@ -426,18 +422,18 @@ Email notices are deemed given when sent to the notice email address below, prov
 
 **A10. Written Approvals and Deliverable Orders:** The Parties may approve **Deliverable Orders** **(A3)**, deadlines, prices, and revisions in writing via email or Discord messages in the **Parties**’ Project communications channel. File delivery via Google Drive links is acceptable. The **Parties** will retain copies of such approvals.
 
+## 
+
 ## **Schedule B – Compensation**
 
 All following amounts are listed in **USD**. All Deliverables can be subject to further negotiation contingent on revisions, and changes of scope in complexity. All price revisions must be consented on by both parties before an amendment can be made.
 
 **B0. Flat Fee per Deliverable:**
 
-* $285 per Rune   
 * $150 per Spell Card  
 * $60 per User Interface element   
 * $150 per background  
-* $210 per Character   
-* $300 for a complete animated studio splash 
+* $210 per Character 
 
 **B1. Royalty: Company** will pay **Contractor \[%\]** of **Net Receipts** attributable to the Project for **5 years** beginning on the **Public Release** date, subject to **Section 10.5**.
 
